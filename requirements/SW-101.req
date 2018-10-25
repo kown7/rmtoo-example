@@ -1,0 +1,11 @@
+Name: Root
+Topic: ReqsDocument
+Description: Do something
+Rationale: We need it
+Status: not done
+Owner: development
+Invented by: default
+Invented on: 2018-10-25
+Type: requirement
+Effort estimation: 5
+Solved by: SW-102
