@@ -1,4 +1,4 @@
-SubTopic: Deployment
 Name: Default Topic
 IncludeRequirements: full
+SubTopic: Deployment
 Text: This is the first (root) topic
